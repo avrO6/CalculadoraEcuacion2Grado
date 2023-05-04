@@ -1,0 +1,13 @@
+E:\DAW1\Base de datos\VisualBasic\CalculadoraEcuacion2grado\CalculadoraEcuacion2grado\CalculadoraEcuacion2grado\obj\Debug\CalculadoraEcuacion2grado.vbproj.AssemblyReference.cache
+E:\DAW1\Base de datos\VisualBasic\CalculadoraEcuacion2grado\CalculadoraEcuacion2grado\CalculadoraEcuacion2grado\obj\Debug\CalculadoraEcuacion2grado.vbproj.SuggestedBindingRedirects.cache
+E:\DAW1\Base de datos\VisualBasic\CalculadoraEcuacion2grado\CalculadoraEcuacion2grado\CalculadoraEcuacion2grado\obj\Debug\CalculadoraEcuacion2grado.Resources.resources
+E:\DAW1\Base de datos\VisualBasic\CalculadoraEcuacion2grado\CalculadoraEcuacion2grado\CalculadoraEcuacion2grado\obj\Debug\CalculadoraEcuacion2grado.Form1.resources
+E:\DAW1\Base de datos\VisualBasic\CalculadoraEcuacion2grado\CalculadoraEcuacion2grado\CalculadoraEcuacion2grado\obj\Debug\CalculadoraEcuacion2grado.vbproj.GenerateResource.cache
+E:\DAW1\Base de datos\VisualBasic\CalculadoraEcuacion2grado\CalculadoraEcuacion2grado\CalculadoraEcuacion2grado\obj\Debug\CalculadoraEcuacion2grado.vbproj.CoreCompileInputs.cache
+E:\DAW1\Base de datos\VisualBasic\CalculadoraEcuacion2grado\CalculadoraEcuacion2grado\CalculadoraEcuacion2grado\bin\Debug\CalculadoraEcuacion2grado.exe.config
+E:\DAW1\Base de datos\VisualBasic\CalculadoraEcuacion2grado\CalculadoraEcuacion2grado\CalculadoraEcuacion2grado\bin\Debug\CalculadoraEcuacion2grado.exe
+E:\DAW1\Base de datos\VisualBasic\CalculadoraEcuacion2grado\CalculadoraEcuacion2grado\CalculadoraEcuacion2grado\bin\Debug\CalculadoraEcuacion2grado.pdb
+E:\DAW1\Base de datos\VisualBasic\CalculadoraEcuacion2grado\CalculadoraEcuacion2grado\CalculadoraEcuacion2grado\bin\Debug\CalculadoraEcuacion2grado.xml
+E:\DAW1\Base de datos\VisualBasic\CalculadoraEcuacion2grado\CalculadoraEcuacion2grado\CalculadoraEcuacion2grado\obj\Debug\CalculadoraEcuacion2grado.exe
+E:\DAW1\Base de datos\VisualBasic\CalculadoraEcuacion2grado\CalculadoraEcuacion2grado\CalculadoraEcuacion2grado\obj\Debug\CalculadoraEcuacion2grado.xml
+E:\DAW1\Base de datos\VisualBasic\CalculadoraEcuacion2grado\CalculadoraEcuacion2grado\CalculadoraEcuacion2grado\obj\Debug\CalculadoraEcuacion2grado.pdb
